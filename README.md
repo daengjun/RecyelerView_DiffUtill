@@ -19,18 +19,5 @@
 
 ![스왑2](https://user-images.githubusercontent.com/98893006/185429306-ea95760c-194a-46ef-8a88-4579fe3eb1fe.jpg)  
 
-![스왑3](https://user-images.githubusercontent.com/98893006/185429330-f841130a-c54f-468c-84dc-d07d7b5a8579.jpg)  
-
--------------------
-
-**1. 아이템 순서 랜덤 (Shuffle)  
-
-![셔플 1](https://user-images.githubusercontent.com/98893006/185429385-dec3574b-b577-43f2-884f-f573eab5c7ef.jpg)  
-
-![셔플버튼](https://user-images.githubusercontent.com/98893006/185429414-938bf346-4d68-4ff4-baa6-740f306c0cdd.jpg)  
-
-![셔플3](https://user-images.githubusercontent.com/98893006/185429436-61888624-e6f7-4623-9afb-88fc249cb411.jpg)  
-
-
-
+![스왑3](https://user-images.githubusercontent.com/98893006/185429330-f841130a-c54f-468c-84dc-d07d7b5a8579.jpg)
 
