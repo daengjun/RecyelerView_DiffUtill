@@ -13,7 +13,7 @@
 
 -----------------
   
-**1. 아이템 삭제 (Swipe)**  
+**2. 아이템 삭제 (Swipe)**  
 
 ![스왑1](https://user-images.githubusercontent.com/98893006/185429269-78655c4e-f5a7-4aa9-87bf-3d9bccd35817.jpg)  
 
